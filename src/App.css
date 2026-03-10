@@ -24,7 +24,7 @@ input, select { width: 100%; padding: 10px; margin: 5px 0; border: 1px solid #dd
 
 /* Invoice Preview Wrapper (Crucial for Mobile Responsiveness & PDF fidelity) */
 .invoice-wrapper {
-  width: 80%;
+  width: 100%;
   overflow-x: auto; /* Allows mobile users to swipe left/right */
   background: #e5e5e5;
   padding: 20px 0;
